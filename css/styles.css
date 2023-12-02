@@ -1,5 +1,6 @@
 :root {
   --background-color: #ffffff;
+  --span-color: #2e2f42;
 }
 body {
   font-family: "Roboto", sans-serif;
@@ -15,6 +16,9 @@ body {
   text-transform: uppercase;
   color: #4d5ae5;
 }
-.link {
+#link {
   text-decoration: none;
+}
+.logo-span {
+  color: var(--span-color);
 }
