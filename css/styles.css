@@ -1,5 +1,8 @@
-.fonts {
-  font-family: ROBOTO, sans-serif;
+:root {
+  --background-color: #ffffff;
+}
+body {
+  font-family: "Roboto", sans-serif;
   color: #434455;
-  background-color: #ffffffff;
+  background-color: var(--background-color);
 }
