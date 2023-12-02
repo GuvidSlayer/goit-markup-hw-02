@@ -29,3 +29,6 @@ body {
 .footer {
   background-color: var(--list-color);
 }
+.span {
+  color: #f4f4f4fd;
+}
