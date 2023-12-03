@@ -64,7 +64,7 @@ body {
   background-color: #404bbf;
 }
 .footer {
-  background-color: var(--background-color);
+  background-color: var(--list-color);
 }
 .span {
   color: #f4f4f4fd;
