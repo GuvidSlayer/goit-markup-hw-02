@@ -35,6 +35,7 @@ body {
 }
 .list {
   list-style: none;
+  background-color: #ffffffff;
 }
 .index-first-section {
   background-color: var(--list-color);
@@ -82,6 +83,10 @@ body {
   text-transform: capitalize;
   color: var(--list-color);
 }
+.second-section {
+  background-color: #f4f4fd;
+}
+
 .footer {
   background-color: var(--list-color);
 }
