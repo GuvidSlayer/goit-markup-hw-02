@@ -63,6 +63,7 @@ body {
 }
 .button :focus {
   background-color: #404bbf;
+  color: #ffffff;
 }
 .footer {
   background-color: var(--list-color);
