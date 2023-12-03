@@ -12,10 +12,12 @@ body {
 }
 .logo {
   font-family: "Raleway", sans-serif;
-
+  line-height: 1.17;
   font-size: 18px;
-
+  font-weight: 800;
   text-transform: uppercase;
+  letter-spacing: 0.03em;
+  color: var(--logo-color);
 }
 .link {
   text-decoration: none;
