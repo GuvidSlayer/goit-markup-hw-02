@@ -36,7 +36,6 @@ body {
 .list {
   list-style: none;
 }
-/* index sections */
 .index-first-section {
   background-color: var(--list-color);
 }
@@ -65,7 +64,6 @@ body {
   background-color: #404bbf;
   color: #ffffff;
 }
-/* section two */
 .title {
   font-weight: 500;
   font-size: 20px;
