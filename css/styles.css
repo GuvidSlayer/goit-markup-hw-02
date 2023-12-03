@@ -38,7 +38,7 @@ body {
 }
 /* index sections */
 .index-first-section {
-  color: var(--list-color);
+  background-color: var(--list-color);
 }
 .section-one-title {
   font-size: 56px;
