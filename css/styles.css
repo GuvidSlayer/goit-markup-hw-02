@@ -113,6 +113,6 @@ body {
 }
 .footer-paragraph {
   line-height: 1.5;
-  color: var(--footer-color);
+  color: #f4f4f4fd;
   letter-spacing: 0.02em;
 }
