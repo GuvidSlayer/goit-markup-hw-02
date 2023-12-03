@@ -61,7 +61,7 @@ body {
   background-color: #404bbf;
   color: #ffffff;
 }
-.button :focus {
+.button:focus {
   background-color: #404bbf;
   color: #ffffff;
 }
