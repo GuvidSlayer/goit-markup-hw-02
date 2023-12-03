@@ -57,8 +57,9 @@ body {
   color: #ffffff;
   cursor: pointer;
 }
-.button :hover {
+.button:hover {
   background-color: #404bbf;
+  color: #ffffff;
 }
 .button :focus {
   background-color: #404bbf;
