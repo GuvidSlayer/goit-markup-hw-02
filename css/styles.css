@@ -3,6 +3,7 @@
   --list-color: #2e2f42;
   --logo-color: #4d5ae5;
   --buttons-color: #404bbf;
+  --footer-color: #f4f4fd;
 }
 body {
   font-family: "Roboto", sans-serif;
@@ -109,4 +110,9 @@ body {
 }
 .span {
   color: #f4f4f4fd;
+}
+.footer-paragraph {
+  line-height: 1.5;
+  color: var(--footer-color);
+  letter-spacing: 0.02em;
 }
