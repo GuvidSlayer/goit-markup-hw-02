@@ -24,10 +24,7 @@ body {
   letter-spacing: 0.02em;
   color: var(--list-color);
 }
-.link :hover {
-  color: #404bbf;
-}
-.link :focus {
+.link :hover :focus {
   color: #404bbf;
 }
 .logo-span {
