@@ -108,11 +108,11 @@ body {
 .footer {
   background-color: var(--list-color);
 }
-.span {
+span {
   color: #f4f4f4fd;
 }
 .footer-paragraph {
   line-height: 1.5;
-  color: #f4f4f4fd;
+  color: var(--footer-color);
   letter-spacing: 0.02em;
 }
