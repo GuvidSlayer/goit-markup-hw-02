@@ -10,7 +10,7 @@ body {
   color: #434455;
   background-color: var(--background-color);
 }
-.logo {
+.header-logo {
   font-family: "Raleway", sans-serif;
   line-height: 1.17;
   font-size: 18px;
