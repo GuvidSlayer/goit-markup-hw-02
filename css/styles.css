@@ -3,7 +3,6 @@
   --list-color: #2e2f42;
   --logo-color: #4d5ae5;
 }
-/* body section */
 body {
   font-family: "Roboto", sans-serif;
   color: #434455;
@@ -18,7 +17,6 @@ body {
   text-transform: uppercase;
   color: var(--logo-color);
 }
-/* link section */
 .link {
   text-decoration: none;
   font-weight: 500;
@@ -38,7 +36,6 @@ body {
 .list {
   list-style: none;
 }
-/* footer section */
 .footer {
   background-color: var(--list-color);
 }
