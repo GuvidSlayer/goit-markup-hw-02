@@ -141,7 +141,7 @@ body {
   color: var(--logo-color);
 }
 .span {
-  color: #f4f4f4fd;
+  color: var(--footer-color);
 }
 .footer-paragraph {
   line-height: 1.5;
