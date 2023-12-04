@@ -125,9 +125,10 @@ body {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: var(--list-color);
-  background-color: var(--background-color);
 }
-
+.list-element {
+  background-color: #ffffffff;
+}
 .footer {
   background-color: var(--list-color);
 }
